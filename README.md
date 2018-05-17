@@ -6,5 +6,6 @@ This is the MATLAB and Verilog HDL realization of the encoder and decoder of BCH
 I first use MATLAB to verify the algorithm, and then use the hardware programming language Verilog HDL to realize it.<br>
 For the decoder part, I use two method for implementation (See reference 1 and 2).<br>
 Most of the work was finised during my graduation project of bachelor degree @Beihang University, Beijing, China in 2017.<br>
-Reference：1. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6507808 (in English)<br>
-                  2. http://www.cqvip.com/read/read.aspx?id=39382366 (in Chinese)<br>  
+These are the two references I used (unfortunately one of them is not written in English):<br>
+1. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6507808 (in English)<br>
+2. http://www.cqvip.com/read/read.aspx?id=39382366 (in Chinese)<br>  

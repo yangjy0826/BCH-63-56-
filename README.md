@@ -1,4 +1,4 @@
-# BCH-63-56-
+# BCH-63-56
 CCSDS BCH (63, 56) Encoder and Decoder Based on MATLAB and FPGA
 CCSDS标准中BCH(63,56)码的编译码MATLAB与FPGA实现
 ----
